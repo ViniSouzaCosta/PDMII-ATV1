@@ -12,15 +12,8 @@ export interface User {
   bio: string;
   descricao: IconItem[];
   chamado: IconItem;
-  repos: number;
   seguidores: number;
   seguindo: number;
   tecnologias: IconItem[];
 }
 
-export interface Repo {
-  id: number;
-  nome: string;
-  descricao: string;
-  linguagem: string;
-}

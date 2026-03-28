@@ -12,7 +12,6 @@ export const user: User = {
     { iconFamily: 'FontAwesome', icon: 'rocket', color: '#ff7301', text: 'Quero me aprofundar em desenvolvimento web e tecnologias multiplataforma' },
   ],
   chamado: { text: 'Olá! Eu sou o Vinícius', iconFamily: 'FontAwesome', icon: 'hand-paper-o', color: '#c9eb08' },
-  repos: 10,
   seguidores: 21,
   seguindo: 43,
   tecnologias: [
